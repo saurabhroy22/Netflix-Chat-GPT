@@ -1,8 +1,25 @@
 # Netflix-GPT
  - Creat React App
  - Configure Tailwind
+ - Routing of app
  - Header
  - Login Form/Sign-up form
+ - form validations
+ - useRef hooks
+ - firebase setup
+ - deplyoment to firebase
+ - Authentication
+ - signin/signup Logic
+ - redux store by react-redux and @reduxjs/toolkit
+ - onAuthstatChanged with useEffect to dispatch and route
+ - unsubscribing OnAuthstateChanged 
+ - BUGFIX1- preventing access of the browse withouth Auth
+ - BUGFIX2- throwing loggedin user to the browse page if try to accees loggin page while being logged in
+ - adding constant.js for all constants variable such as logo and imgs
+ - registered to TMDB and made an API call
+ - Update the redux store by creating an another slice for nowPlaying movies
+ - 
+ 
 
 
 
