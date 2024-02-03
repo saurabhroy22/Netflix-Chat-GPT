@@ -8,3 +8,5 @@ export const API_OPTIONS=  {
     }
   };
   export const PLAYER_ICON='https://iconpacks.net/?utm_source=link-attribution&utm_content=12033';
+  export const POSTER_URL='https://image.tmdb.org/t/p/w400/';
+  export const NETFLIX_BACKGROUND='https://assets.nflxext.com/ffe/siteui/vlv3/32c47234-8398-4a4f-a6b5-6803881d38bf/eed3a573-8db7-47ca-a2ce-b511e0350439/IN-en-20240122-popsignuptwoweeks-perspective_alpha_website_medium.jpg';

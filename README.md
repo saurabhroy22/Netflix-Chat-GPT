@@ -18,7 +18,10 @@
  - adding constant.js for all constants variable such as logo and imgs
  - registered to TMDB and made an API call
  - Update the redux store by creating an another slice for nowPlaying movies
- - 
+ - Main container
+  - video title 
+  - movie player
+ - custom hook for fetch and updating the store   
  
 
 
